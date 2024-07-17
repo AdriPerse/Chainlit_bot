@@ -1,5 +1,5 @@
-# Llama2-Chainlit-Chatbot
-This is a Llama2 chainlit chatbot. With ingest trained on medical pdf file. This is bot built using Llama2 and Sentence Transformers. The bot is powered by Langchain and Chainlit. 
+# Chainlit_Chatbot
+This is a chainlit chatbot. This is bot built using Llama2 and Sentence Transformers. The bot is powered by Langchain and Chainlit. Any Opensource model can be used.
 The bot runs on a decent CPU machine with a minimum of 16GB of RAM.
 
 There are only two chnages done
